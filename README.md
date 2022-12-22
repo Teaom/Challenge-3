@@ -1,5 +1,6 @@
 # Challenge-3
 Password Generator is used to create a random password allowing you use use specific criteria. You need to first select the amount of characters (between 8-124). Then you can choose to use lower and upper case letters, numbers and special characters. Select "Generate Password" to begin the creation of the password
+Generator can be found at https://teaom.github.io/Challenge-3/
 
 
 ![Alt text](Screenshots/Base.png)
